@@ -1,24 +1,5 @@
-# README
+# Avo reproduction rpo
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Use this repo to get started fast and create reproduction scnarios for your bugs or feedback.
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/avo-hq/avo-reproduction)
