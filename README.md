@@ -1,4 +1,4 @@
-# Avo reproduction rpo
+# Avo reproduction repo
 
 Use this repo to get started fast and create reproduction scnarios for your bugs or feedback.
 
