@@ -70,6 +70,6 @@ Rails.application.configure do
 
   # Allow the gitpod url host
   if ENV["GITPOD_WORKSPACE_URL"].present?
-    config.hosts << ENV["GITPOD_WORKSPACE_URL"]
+    config.hosts << /.*#{URI.parse(ENV["GITPOD_WORKSPACE_URL"]).host}/
   end
 end
