@@ -76,3 +76,5 @@ end
 gem "avo"
 
 gem "devise", "~> 4.8"
+
+gem 'active_hash', github: 'active-hash/active_hash', ref: '7a07bcc07abca9aca48b47186c23f85cf6ec7ced'

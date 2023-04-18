@@ -1,3 +1,11 @@
+GIT
+  remote: https://github.com/active-hash/active_hash.git
+  revision: 7a07bcc07abca9aca48b47186c23f85cf6ec7ced
+  ref: 7a07bcc07abca9aca48b47186c23f85cf6ec7ced
+  specs:
+    active_hash (3.2.0)
+      activesupport (>= 5.0.0)
+
 GEM
   remote: https://rubygems.org/
   specs:
@@ -262,6 +270,7 @@ PLATFORMS
   x86_64-linux
 
 DEPENDENCIES
+  active_hash!
   avo
   bootsnap
   capybara
